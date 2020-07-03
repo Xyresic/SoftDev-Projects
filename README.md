@@ -1,1 +1,1 @@
-# SotftDev-Projects
+# SoftDev-Projects
