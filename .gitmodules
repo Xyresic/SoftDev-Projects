@@ -1,0 +1,15 @@
+[submodule "Collaborative Storytelling"]
+	path = Collaborative Storytelling
+	url = https://github.com/igalakhov/softdev_p00.git
+[submodule "Silcoon Road"]
+	path = Silcoon Road
+	url = https://github.com/jiosephlee/Softdev-P01.git
+[submodule "PepperMint"]
+	path = PepperMint
+	url = https://github.com/StudentDX/MoneyMunchers.git
+[submodule "CoronaView"]
+	path = CoronaView
+	url = https://github.com/DavidLupea/The-SIMPsons_dlupea00_jlee01_elam00_mzhang00.git
+[submodule "BTD7"]
+	path = BTD7
+	url = https://github.com/Mabedin00/deathnotepadPlusPlus.git
